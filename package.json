@@ -4,7 +4,11 @@
   "description": "",
   "author": "",
   "private": true,
+<<<<<<< HEAD
   "license": "UNLICENSED",ssssssss
+=======
+  "license": "UNLICENSED",asddasds
+>>>>>>> 1204488f34f9fdbeeea3d24b88665ee0223f52c4
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
