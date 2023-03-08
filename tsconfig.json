@@ -1,7 +1,7 @@
 {fdhkfjnhfjgnh
   "compilerOptions": {
     "strict": true,
-    "module": "commonjs",
+    "module": "commonjs"asddsa,
     "declaration": true,
     "removeComments": true,
     "emitDecoratorMetadata": true,
